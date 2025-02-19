@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const scratchCards = fs.readFileSync(
-  path.resolve(__dirname, "../input/day_4_input.txt"),
+  path.resolve(__dirname, "../../input/day_4_input.txt"),
   "utf-8"
 );
 

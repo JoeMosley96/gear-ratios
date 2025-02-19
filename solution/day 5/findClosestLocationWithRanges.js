@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const almanac = fs.readFileSync(
-  path.resolve(__dirname, "../input/day_5_input.txt"),
+  path.resolve(__dirname, "../../input/day_5_input.txt"),
   "utf-8"
 );
 

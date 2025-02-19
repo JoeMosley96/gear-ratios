@@ -1,4 +1,4 @@
-const findClosestLocationWithRanges = require('../solution/findClosestLocationWithRanges');
+const findClosestLocationWithRanges = require('../../solution/day 5/findClosestLocationWithRanges');
 
 const testInput = `
 seeds: 79 14 55 13
